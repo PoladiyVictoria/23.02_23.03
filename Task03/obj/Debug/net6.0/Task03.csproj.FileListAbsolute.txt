@@ -1,0 +1,15 @@
+E:\Семинары\23.02-23.03_ЧТПН_20\Task03\obj\Debug\net6.0\Task03.csproj.AssemblyReference.cache
+E:\Семинары\23.02-23.03_ЧТПН_20\Task03\obj\Debug\net6.0\Task03.GeneratedMSBuildEditorConfig.editorconfig
+E:\Семинары\23.02-23.03_ЧТПН_20\Task03\obj\Debug\net6.0\Task03.AssemblyInfoInputs.cache
+E:\Семинары\23.02-23.03_ЧТПН_20\Task03\obj\Debug\net6.0\Task03.AssemblyInfo.cs
+E:\Семинары\23.02-23.03_ЧТПН_20\Task03\obj\Debug\net6.0\Task03.csproj.CoreCompileInputs.cache
+E:\Семинары\23.02-23.03_ЧТПН_20\Task03\bin\Debug\net6.0\Task03.exe
+E:\Семинары\23.02-23.03_ЧТПН_20\Task03\bin\Debug\net6.0\Task03.deps.json
+E:\Семинары\23.02-23.03_ЧТПН_20\Task03\bin\Debug\net6.0\Task03.runtimeconfig.json
+E:\Семинары\23.02-23.03_ЧТПН_20\Task03\bin\Debug\net6.0\Task03.dll
+E:\Семинары\23.02-23.03_ЧТПН_20\Task03\bin\Debug\net6.0\Task03.pdb
+E:\Семинары\23.02-23.03_ЧТПН_20\Task03\obj\Debug\net6.0\Task03.dll
+E:\Семинары\23.02-23.03_ЧТПН_20\Task03\obj\Debug\net6.0\refint\Task03.dll
+E:\Семинары\23.02-23.03_ЧТПН_20\Task03\obj\Debug\net6.0\Task03.pdb
+E:\Семинары\23.02-23.03_ЧТПН_20\Task03\obj\Debug\net6.0\Task03.genruntimeconfig.cache
+E:\Семинары\23.02-23.03_ЧТПН_20\Task03\obj\Debug\net6.0\ref\Task03.dll
